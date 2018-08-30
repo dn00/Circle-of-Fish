@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<RepositoryCustomSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LastUsedView>FileStatus</LastUsedView>
+  <AutoRefresh>true</AutoRefresh>
+  <DraftCommitMsg>initial</DraftCommitMsg>
+  <LogBranchFilterIndex>0</LogBranchFilterIndex>
+  <SidebarExpandedItems>
+    <string>File Status</string>
+    <string>Branches</string>
+    <string>Tags</string>
+    <string>Remotes</string>
+    <string>Remotes/CoF</string>
+  </SidebarExpandedItems>
+  <SidebarWidth>140</SidebarWidth>
+  <AutoRefreshRemotes>true</AutoRefreshRemotes>
+  <LastCheckedRemotes>2014-05-10T17:41:15.57943-07:00</LastCheckedRemotes>
+  <RemoteProjectLinks>
+    <RepositoryRemoteProjectLink>
+      <Type>Bitbucket</Type>
+      <BaseUrl>https://www.bitbucket.org</BaseUrl>
+      <RemoteName>CoF</RemoteName>
+      <Username>dn00</Username>
+      <Identifier>dn00/circle-of-fish</Identifier>
+    </RepositoryRemoteProjectLink>
+  </RemoteProjectLinks>
+  <CommitTextLinks />
+  <SubtreeLinks />
+  <IncomingSavedCount>0</IncomingSavedCount>
+  <OutgoingSavedCount>3</OutgoingSavedCount>
+</RepositoryCustomSettings>
